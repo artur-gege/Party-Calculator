@@ -9,7 +9,7 @@
                 new Person("Вадим", 67.0),
                 new Person("Артур", 37.0),
                 new Person("Саня", 13.0),
-                new Person("Ангелина", 15.0),
+                new Person("Бендер", 15.0),
                 new Person("Гаврик", 7.0),
                 new Person("Полина", 4.0)
             };
